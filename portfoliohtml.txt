@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio | Duelist Creatives</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar glass">
+  <div class="logo">Duelist Creatives</div>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="portfolio.html">Portfolio</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+
+<!-- PORTFOLIO SECTION -->
+<section class="portfolio-section">
+  <h1>Our Projects</h1>
+
+  <div class="portfolio-grid">
+
+    <a href="#" class="project-card">
+      <div class="project-overlay">
+        <span>Wedding Film</span>
+      </div>
+    </a>
+
+    <a href="#" class="project-card">
+      <div class="project-overlay">
+        <span>Corporate Ad</span>
+      </div>
+    </a>
+
+    <a href="#" class="project-card">
+      <div class="project-overlay">
+        <span>Fashion Shoot</span>
+      </div>
+    </a>
+
+    <a href="#" class="project-card">
+      <div class="project-overlay">
+        <span>Cultural Event</span>
+      </div>
+    </a>
+
+    <a href="#" class="project-card">
+      <div class="project-overlay">
+        <span>Brand Promotion</span>
+      </div>
+    </a>
+
+    <a href="#" class="project-card">
+      <div class="project-overlay">
+        <span>Wedding Teaser</span>
+      </div>
+    </a>
+
+  </div>
+</section>
+
+</body>
+</html>
